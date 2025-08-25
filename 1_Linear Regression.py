@@ -1,3 +1,5 @@
+#linear regression
+
 import numpy as np
 
 def liner_Regression(data_x,data_y,learningRate,Loopnum):
